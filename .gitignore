@@ -1,0 +1,12 @@
+*.txt
+*.pdf
+*.xls*
+*.ini
+*.DS_Store
+*.csv
+*.log
+*.dat
+*.pickle
+*.pkl
+*.pyc
+*.env
